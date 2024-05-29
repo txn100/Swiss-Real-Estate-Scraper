@@ -1,0 +1,135 @@
+{
+    "cantons":[
+       {
+          "name":"Zurich",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/zurich/page-1?t=sale&c=1;2&p=s126&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/zurich/page-1?t=rent&c=1;2&p=s126&nb=false"
+       },
+       {
+          "name":"Berne",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/berne/page-1?t=sale&c=1;2&p=s19&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/berne/page-1?t=rent&c=1;2&p=s19&nb=false"
+       },
+       {
+          "name":"Lucerne",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/lucerne/page-1?t=sale&c=1;2&p=s65&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/lucerne/page-1?t=rent&c=1;2&p=s65&nb=false"
+       },
+       {
+          "name":"Uri",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/uri/page-1?t=sale&c=1;2&p=s112&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/uri/page-1?t=rent&c=1;2&p=s112&nb=false"
+       },
+       {
+          "name":"Schwyz",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/schwyz/page-1?t=sale&c=1;2&p=s100&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/schwyz/page-1?t=rent&c=1;2&p=s100&nb=false"
+       },
+       {
+          "name":"Obwald",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/obwald/page-1?t=sale&c=1;2&p=s81&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/obwald/page-1?t=rent&c=1;2&p=s81&nb=false"
+       },
+       {
+          "name":"Nidwald",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/nidwald/page-1?t=sale&c=1;2&p=s78&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/nidwald/page-1?t=rent&c=1;2&p=s78&nb=false"
+       },
+       {
+          "name":"Glaris",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/glaris/page-1?t=sale&c=1;2&p=s43&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/glaris/page-1?t=rent&c=1;2&p=s43&nb=false"
+       },
+       {
+          "name":"Zoug",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/zoug/page-1?t=sale&c=1;2&p=s125&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/zoug/page-1?t=rent&c=1;2&p=s125&nb=false"
+       },
+       {
+          "name":"Fribourg",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/fribourg/page-1?t=sale&c=1;2&p=s37&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/fribourg/page-1?t=rent&c=1;2&p=s37&nb=false"
+       },
+       {
+          "name":"Soleure",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/soleure/page-1?t=sale&c=1;2&p=s105&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/soleure/page-1?t=rent&c=1;2&p=s105&nb=false"
+       },
+       {
+          "name":"Basel stadt",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/bale-campagne/page-1?t=sale&c=1;2&p=s16&nb=false&gr=1",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/bale-campagne/page-1?t=rent&c=1;2&p=s16&nb=false"
+       },
+       {
+          "name":"Bale ville",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/bale-campagne/page-1?t=sale&c=1;2&p=s16&nb=false&gr=1",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/bale-campagne/page-1?t=rent&c=1;2&p=s16&nb=false"
+       },
+       {
+          "name":"Shaffhouse",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/schaffhouse/page-1?t=sale&c=1;2&p=s99&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/schaffhouse/page-1?t=rent&c=1;2&p=s99&nb=false"
+       },
+       {
+          "name":"Appenzell Rhodes-Extérieures",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/appenzell-rhodes-exterieures/page-1?t=sale&c=1;2&p=s8&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/appenzell-rhodes-exterieures/page-1?t=rent&c=1;2&p=s8&nb=false"
+       },
+       {
+          "name":"Appenzell Rhodes-Intérieures (AI) - Appenzell Rhodes-Intérieures",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/appenzell-rhodes-interieures/page-1?t=sale&c=1;2&p=s9&nb=false",
+          "rent":"none"
+       },
+       {
+          "name":"Sankt Gallen (SG) - Saint-Gall",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/st-gall/page-1?t=sale&c=1;2&p=s107&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/st-gall/page-1?t=rent&c=1;2&p=s107&nb=false"
+       },
+       {
+          "name":"Graubünden (GR) - Grisons",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/grisons/page-1?t=sale&c=1;2&p=s44&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/grisons/page-1?t=rent&c=1;2&p=s44&nb=false"
+       },
+       {
+          "name":"Aargau (AG) - Argovie",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/argovie/page-1?t=sale&c=1;2&p=s12&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/argovie/page-1?t=rent&c=1;2&p=s12&nb=false"
+       },
+       {
+          "name":"Thurgau (TG) - Thurgovie",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/thurgovie/page-1?t=sale&c=1;2&p=s111&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/thurgovie/page-1?t=rent&c=1;2&p=s111&nb=false"
+       },
+       {
+          "name":"Ticino (TI) - Tessin",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/tessin/page-1?t=sale&c=1;2&p=s110&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/tessin/page-1?t=rent&c=1;2&p=s110&nb=false"
+       },
+       {
+          "name":"Vaud (VD) - Vaud",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/vaud/page-1?t=sale&c=1;2&p=s118&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/vaud/page-1?t=rent&c=1;2&p=s118&nb=false"
+       },
+       {
+          "name":"Valais (VS) - Valais",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/valais/page-1?t=sale&c=1;2&p=s115&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/valais/page-1?t=rent&c=1;2&p=s115&nb=false"
+       },
+       {
+          "name":"Neuchâtel (NE) - Neuchâtel",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/neuchatel/page-1?t=sale&c=1;2&p=s77&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/neuchatel/page-1?t=rent&c=1;2&p=s77&nb=false"
+       },
+       {
+          "name":"Genève (GE) - Genève",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/geneve/page-1?t=sale&c=1;2&p=s40&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/geneve/page-1?t=rent&c=1;2&p=s40&nb=false"
+       },
+       {
+          "name":"Jura (JU) - Jura",
+          "buy":"https://www.immobilier.ch/fr/acheter/appartement-maison/jura/page-1?t=sale&c=1;2&p=s55&nb=false",
+          "rent":"https://www.immobilier.ch/fr/louer/appartement-maison/jura/page-1?t=rent&c=1;2&p=s55&nb=false"
+       }
+    ]
+ }
+ 
