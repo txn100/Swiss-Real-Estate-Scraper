@@ -26,32 +26,7 @@ The Swiss Real Estate Web Scraper is a sophisticated Python-based tool designed 
 - Employs **multithreading** to enhance efficiency by scraping multiple cantons simultaneously.
 - Reduces overall scraping time without compromising system performance.
 
-### Resilient Error Handling
-- Robust error management mechanisms to ensure continuous operation.
-- Gracefully recovers from common scraping interruptions.
 
-### Efficient Data Storage
-- Stores extracted data in structured **JSON files**, categorized by canton and type (buy/rent).
-- Facilitates easy data retrieval and manipulation.
-
-## Technical Overview
-
-### Code Structure
-- **Modular design**: Code is organized into distinct modules for scraping, parsing, and storing data.
-- **Scalability**: Easily extendable to incorporate additional websites or functionalities.
-
-### Efficiency and Threading
-- **Thread-safe operations**: Ensures data integrity when scraping in parallel.
-- **Optimized resource usage**: Balances the load between CPU and memory resources.
-
-## Future Plans
-- **Expansion to other platforms**: Plans to include other major real estate platforms like homegate.ch.
-- **Free API**: Aiming to provide a free API for accessing scraped real estate data (details to be confirmed).
-
-## Installation and Usage
-- Requirements: Python 3.x, Selenium WebDriver.
-- Installation instructions and usage details to be provided.
 
 I don't welcome contributions, but you are welcome to freely fork the project and experiment with it. 
 
-Web Sraping is legal.
